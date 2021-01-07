@@ -6,16 +6,16 @@
 - 🤔 I’m looking for help with Web development
 - 📫 How to reach me: ...
 - ⚡ Fun fact:I love to play Games and watch Movies
--->
-### Connect with me:
+
+  ### Connect with me:
 
 [<img align="left" alt="Sabesan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook] 
 [<img align="left" alt="Sabesan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Sabesan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-
-
 <br />
+
+---
 
 
 ### Languages and Tools:
