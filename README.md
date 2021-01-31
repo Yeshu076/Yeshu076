@@ -4,8 +4,7 @@
 - 🌱 I’m currently learning Python Libraries and Basics of Web Development
 - 👯 I’m looking to collaborate on New Projects
 - 🤔 I’m looking for help with Web development
-- 📫 How to reach me: ...
-- ⚡ Fun fact:I love to play Games and watch Movies
+- ⚡ Fun fact:I love to play Games,watch Movies and Code....
 
 ### Connect with me:
 
