@@ -1,9 +1,9 @@
 ### Hola , I am Yeshwanth.J 👋
 ## I'm a Undergradute student, Part time Coder
 
-- 🌱 I’m currently learning Python Libraries and Basics of Web Development
+- 🌱 I’m currently learning Python Libraries and Java
 - 👯 I’m looking to collaborate on New Projects
-- 🤔 I’m looking for help with Web development
+- 🤔 I’m looking for help with Java
 - ⚡ Fun fact:I love to play Games,watch Movies and Code....
 
 ### Connect with me:
