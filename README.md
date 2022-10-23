@@ -1,9 +1,9 @@
 ### Hola , I am Yeshwanth.J 👋
-## I'm a Undergradute student, Part time Coder
+## I'm a AST Trinee @ TCS
 
-- 🌱 I’m currently learning Java and Python
+- 🌱 I’m currently exploring Java and Cloud&DevOps
 - 👯 I’m looking to collaborate on New Projects
-- 🤔 I’m looking for help with Java
+- 🤔 I’m looking for help with Java, DevOps
 - ⚡ Fun fact:I love to play Games,watch Movies and Code....
 
 ### Connect with me:
