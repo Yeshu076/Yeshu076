@@ -1,5 +1,5 @@
 ### Hola , I am Yeshwanth.J 👋
-## I'm a AST @ TCS
+## I'm a SE @ TCS
 
 - 🌱 I’m currently exploring Java and Cloud&DevOps
 - 👯 I’m looking to collaborate on New Projects
